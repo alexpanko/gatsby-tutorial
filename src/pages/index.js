@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from '../components/Layout'
-import {ExampleButton} from '../components/Button'
+import {ExampleButton} from '../components/button'
 
 export default () => (
   <Layout>
